@@ -1,0 +1,2 @@
+# koodi
+Koodauskurssin juttu
